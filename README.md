@@ -1,6 +1,3 @@
----
-<style>p { margin: 0px 0px 00px; }</style>
----
 
 </br>![header](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_header.png "")
 
