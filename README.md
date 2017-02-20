@@ -27,6 +27,7 @@ If you are using an older version, consider using [WorldEditCUI Forge Edition](h
 </br>![](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_screenshot_02.png "")
 </br>![](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_screenshot_03.png "")
 </br>![](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_screenshot_04.png "")
+</br>![](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_screenshot_05.png "")
 
 </br>![howto](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-2/raw/master/img/wecui_howto.png "")
 </br>To use **WorldEditCUI Forge Edition 2**, simply make a selection on a server using WorldEdit, your selection will be instantly displayed on the screen. To clear your current selection issue the command **//sel**
