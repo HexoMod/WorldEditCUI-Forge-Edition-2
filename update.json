@@ -1,10 +1,11 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
   "promos": {
-    "1.11.2-latest"     : "2.1.0",
-    "1.11.2-recomended" : "2.1.0"
+    "1.11.2-latest"     : "2.1.1",
+    "1.11.2-recomended" : "2.1.1"
   },
   "1.11.2" : {
+    "2.1.1" : "Prevent crash when entering invalid number in config section",
     "2.1.0" : "Properly handle single player mode. No more /we cui server spam",
     "2.0.1" : "Updated forge and WorldEdit dependency",
     "2.0.0" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2"
