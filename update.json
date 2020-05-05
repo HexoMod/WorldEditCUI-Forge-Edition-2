@@ -1,16 +1,17 @@
 {
-  "homepage": "https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition",
   "promos": {
-    "1.12.2-latest"     : "2.1.2",
-    "1.12.2-recomended" : "2.1.2",
+    "1.12.2-latest"     : "3.0.0",
+    "1.12.2-recomended" : "3.0.0",
     "1.12.1-latest"     : "2.1.2",
     "1.12.1-recomended" : "2.1.2",
     "1.12-latest"       : "2.1.2",
     "1.12-recomended"   : "2.1.2",
-    "1.11.2-latest"     : "2.1.2",
-    "1.11.2-recomended" : "2.1.2"
+    "1.11.2-latest"     : "3.0.0",
+    "1.11.2-recomended" : "3.0.0"
   },
   "1.12.2" : {
+    "3.0.0" : "Check the new version WorldEditCUI Forge Edition 3 : https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
     "2.1.2" : "First release for 1.12.2"
   },
   "1.12.1" : {
@@ -24,6 +25,7 @@
     "2.0.0" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2"
   },
   "1.11.2" : {
+    "3.0.0" : "Check the new version WorldEditCUI Forge Edition 3 : https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
     "2.1.2" : "Updated to the latest forge version",
     "2.1.1" : "Prevent crash when entering invalid number in config section",
     "2.1.0" : "Properly handle single player mode. No more /we cui server spam",
